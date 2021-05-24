@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JordyLambert
+- 👋 Hi, I’m @Swyperz
 - 👀 I’m interested in string[] hobbies = {"Gaming", "Coding", "Watching shows", "Working out"}
 - 🌱 I’m currently learning how to make a Discord bot with DSharpPlus!
 - 💞️ I’m looking to collaborate on [REDACTED]
